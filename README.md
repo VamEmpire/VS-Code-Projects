@@ -106,4 +106,8 @@ To become a skilled Data Scientist and Machine Learning Engineer capable of desi
 
 ## ⭐ Motto
 
+<<<<<<< HEAD
 > **Learn → Practice → Build → Improve → Repeat**
+=======
+> **Learn → Practice → Build → Improve → Repeat**
+>>>>>>> 712b560 (Test Auto Commit)
